@@ -14,4 +14,14 @@ Business Company Representative - In this window, any company that wants to take
 Also, the company can send the product to the activist.
 Social Activist - In this section activists can join PromoIt, add their information and eventually redeem the points they earned for tweeting with a specific hashtag. 
 Activists will also have a window that shows their balance and the Items they can get
-
+<h2 align="center">Built With</h2>
+C sharp. 
+Mysql.
+TweetinviAPI 5.0.4 - NuGet
+Twitter API.
+<h2 align="center">Future updates</h2>
+If we will get the chance to upgrade our project, we will create a better filltering engine for the users name to find 
+who wrote a specific tweets and other fetures to make it nicer for the users.
+<h2 align="center">Author</h2>
+Asaf Yacobovich.
+Amit Galam.
