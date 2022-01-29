@@ -4,7 +4,7 @@ can help organizations to follow their campaigns and their activist activities.
 With PromoIt any organization can count the number of tweets their activist made and reward them accordingly.
 Each organization has its own hashtag, with PromoIt your organization can monitor who used it and how many times.
 Also, there is a dashboard for the Owner of it which can get reports with all the data that the app contains.</p>
-<h2 align="center">How to use your software?</h2>
+<h2 align="center">How to use our software?</h2>
 It's very easy and intuitive!
 All you have to do is to run it, now you got four buttons. 
 Each one represents a different section. 
